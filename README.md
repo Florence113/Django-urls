@@ -1,0 +1,1 @@
+### In this case I created a django project and made the secret key hidden and also change the admin to zuri-admin
